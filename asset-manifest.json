@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.c4d09b7e.chunk.css",
-    "main.js": "./static/js/main.b43504ad.chunk.js",
-    "main.js.map": "./static/js/main.b43504ad.chunk.js.map",
+    "main.css": "./static/css/main.371e0012.chunk.css",
+    "main.js": "./static/js/main.acbdc280.chunk.js",
+    "main.js.map": "./static/js/main.acbdc280.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.6f0c09dc.chunk.js": "./static/js/2.6f0c09dc.chunk.js",
     "static/js/2.6f0c09dc.chunk.js.map": "./static/js/2.6f0c09dc.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.c4d09b7e.chunk.css.map": "./static/css/main.c4d09b7e.chunk.css.map",
+    "static/css/main.371e0012.chunk.css.map": "./static/css/main.371e0012.chunk.css.map",
     "static/js/2.6f0c09dc.chunk.js.LICENSE.txt": "./static/js/2.6f0c09dc.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/select-arrow-up.bca5376b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.6f0c09dc.chunk.js",
-    "static/css/main.c4d09b7e.chunk.css",
-    "static/js/main.b43504ad.chunk.js"
+    "static/css/main.371e0012.chunk.css",
+    "static/js/main.acbdc280.chunk.js"
   ]
 }
